@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of a fanatick in general, by what other name however he may be more specially distinguished</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31689</idno>
+            <idno type="STC">Wing C1973</idno>
+            <idno type="STC">ESTC R9206</idno>
+            <idno type="EEBO-CITATION">13275744</idno>
+            <idno type="OCLC">ocm 13275744</idno>
+            <idno type="VID">98718</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98718)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 450:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of a fanatick in general, by what other name however he may be more specially distinguished</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>First published in 1675 with title : The character of a fanatick.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Religion --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:98718:1"/>
+            <pb n="1" facs="tcp:98718:1" rendition="simple:additions"/>
+            <head>THE CHARACTER OF A FANATICK in General, By what other Name however he may be more ſpecially diſtinguiſhed.</head>
+            <p>HE is a perſon of a more exercis'd Faith, than Underſtanding; one govern'd by Inſtinct, nor Intellect; and who (like thoſe of old) never thinks he has enough of the Deity, till beſide himſelf. You may call him, if you pleaſe, a Perpetual Motion, or reſtleſs Whirligig, ever twirling from bad to worſe; or the <hi>Ignis Fatuus</hi> of Divinity, carried about with every wind; leaſt conſidering, whence it cometh, or whither it goeth: as even ſuch likewiſe, is every one that is born of him. It may be thought, the Prophet had ſomewhat like him in his eye, in that <hi>Wheel within a Wheel;</hi> for, of himſelf he ne<g ref="char:EOLhyphen"/>ver was, but ill turn'd off from another; like thoſe imperfect, dough<g ref="char:EOLhyphen"/>bak'd Creatures, produc'd by the Sun, on the Banks of <hi>Nile;</hi> ſo that his Generation is founded in Corruption, and his Extraction of the ſame Parentage with Monſters; not created, nor intended, but produc'd: His Principles, are like the Chaos, a confuſed Lump of every thing, and nothing; or, a Gallimaufry of Negatives; nor this nor that, nor t'other, but what he is, no man knows, no not the Angels in Heaven, nor him<g ref="char:EOLhyphen"/>ſelf to boot; this only excepted, that he is more party-coloured then <hi>Joſeph</hi>'s Coat, and patcht together of more pieces, then a Taylor's Cuſhion. Nor is his Practice, much unſuitable to his Principles: he puts on Religion, as a Cloak, not a Carment, and ſo makes his Impoſtures, with Holineſs to the Lord: Thus <hi>Abſalom</hi> pretends a Sacrifice, when his buſineſs is Rebellion; and <hi>Herod</hi> a Worſhip, when his deſign is Mur<g ref="char:EOLhyphen"/>der: Nor with much wonder, the <hi>Florentine</hi> hath taught him, He that would gain by Deceit, muſt firſt acquire a Credit, by (at leaſt) a ſhew of Integrity; and he that would practice, upon the People, muſt follow the old Rule, of <hi>Finge Deum:</hi> ſuch influence have ſolemn looks, and <hi>Verily Verily,</hi> upon the Multitude, who have little other to paſs them for Men, than Speech, and Figure: Hence is it, that he puts off his Tinſel, for Standard, and the Maggots of his own Fancy, for Divine Inſpira<g ref="char:EOLhyphen"/>tions;
+<pb n="2" facs="tcp:98718:2"/>That he obtrudes his Enthuſiaſms, for Viſions, and juſtifies <hi>Ho<g ref="char:EOLhyphen"/>mer,</hi> that even Dreams, are of God; That he takes a Holy Pride to himſelf, and ſays to the reſt of the World, <hi>Stand off;</hi> That he calls the common Infirmities of Mankind, Crying ſins, National ſins, bow-dy'd ſins, black and blue ſins; and his own Mormoes, meer Slips, and Failings; That he can ſee no ſin in <hi>Jacob,</hi> nor iniquity in his <hi>Iſrael</hi> of God; That he calls them, the only Holy, only Choſen, only Godly, only Precious, only Spiritually-diſcerning people; puts a diſcriminating <hi>Shibboleth</hi> on others; as, Formaliſts, Carnaliſts, dry Moraliſts, wither'd Fig-trees, Outſide-men, Negative-Holineſs-men, <hi>Opus operatum</hi>-men, Will-wor<g ref="char:EOLhyphen"/>ſhippers, <hi>Laodiceans,</hi> Lukewarm Profeſſors, and what not! That he talks of nothing, but New Light, and Propheſie, Spiritual incomes, In<g ref="char:EOLhyphen"/>dwellings, Emanations, Manifeſtations, Sealings, and the like Spiritual gibberiſh and canting; to which alſo, the zealous twang of the Noſe, adds no ſmall efficacy: that he runs counter to all things in Power, and treads the Antipodes to every thing commanded, though for no other reaſon perhaps, but, becauſe commanded; for it may be obſerved, that the Lords prayer was not ſo abſolutely thrown out of the Kirk, till recom<g ref="char:EOLhyphen"/>mended, by its own Directory: In ſhort, that he calls <hi>ſubjection. in mat<g ref="char:EOLhyphen"/>ters of Religion,</hi> a tying up the Spirit; and all Injunctions, even in things indifferent, a manifeſt invading the <hi>Sanctum Sanctorum:</hi> and now the great cry is, <hi>Perſecution for Conſcience!</hi> nothing in his mouth, but <hi>deſti<g ref="char:EOLhyphen"/>tute, afflicted;</hi> and the common corollary, <hi>but not forſaken. Alas! alas! the habitations of</hi> Jacob <hi>are ſwallow'd, and the places of the Aſſembly taken away; A bow is bent, againſt the daughter of</hi> Judah, <hi>and the breach of the Virgin of</hi> Sion, <hi>is like a great Sea:</hi> Whereas on the other hand, let him be as in the years paſt, and that Sun once more ſhine in his Tabernacle, this ſucceſs, new models his Conſcience, and (like <hi>Aaron</hi>'s Rod) he ſwallows up every thing that lies in his way; even Princes, muſt lay their hands on their mouths, and the Nobles, not ſpeak again to his words: The poor diſtreſſed, is become <hi>Hogen. Mogen;</hi> and the <hi>Servus Servorum,</hi> a <hi>Dominus Dominantium:</hi> The little Flock, claims a Kingdom <hi>ex condigno;</hi> and the Choſen generation, ſets up for a Royal Prieſt<g ref="char:EOLhyphen"/>hood: In ſhort, this little Horn, takes a mouth to himſelf, ſpeaking mighty things; and his language is, <hi>Overturn, Overturn, Overturn.</hi> And now, he makes his Doctrine ſuitable to his Text, and owns above-board, that Dominion is founded in Grace, not Nature; that the Goods of this World, are properly the Elects? that himſelf and his <hi>Knipperdolins,</hi> are the only <hi>Iſraelites,</hi> and all the reſt <hi>Egyptians;</hi> that the <hi>New Jeruſalem</hi> muſt be propagated, as the ſecond Temple was built, with the Sword in one hand, and the Trowel in t'other; or as the Abbot (in <hi>Henry</hi> the third's time) gave it in Abſolution to the Earl of <hi>Leiceſter, Gladium Spi<g ref="char:EOLhyphen"/>ritualem ſine Gladio Materiali nihil poſse.</hi> What ſhall I add? He looks as terrible, as an Army with Banners, and declares, <hi>Quis ſuſcitabit eum,</hi> was perſonally meant of his Tribe. And yet, this man has followers! and thoſe of the honourable Women too, not a few; for (to ſay truth) his Converſation is much after the rate of that, before the Floud, <hi>the ſons of God, among the daughters of men;</hi> Devotion in all places, whether true, or falſe, being moſt natural to that Sex: 'twas the Devil's policy
+<pb n="3" facs="tcp:98718:2"/>to our firſt Parents, for well he knew, to beguile <hi>Eve,</hi> was the ready way to hook in <hi>Adam:</hi> And thus, he proves a Stumbling-block to the Wives, and a Rock of offence to the Husbands. In brief, like the Dra<g ref="char:EOLhyphen"/>gon in the Apocalypſe, his Tail draws a third part of the Stars, and caſts them to the Earth; the reaſon is obvious, <hi>Fortitudo ejus in Lumbis ejus &amp; virtus in umbilico Ventris.</hi> But to proceed; His Profeſſion, is like, his Allegiance, a meer <hi>Fucus,</hi> yet ſo laid on, one (at firſt ſight) could not but judge it natural: His Common-place, <hi>Polyanthea,</hi> and Concor<g ref="char:EOLhyphen"/>dance, and the height of his School-Divinity, the <hi>Aſſemblies Catechiſm:</hi> His Prayer, a Rhapſody of holy Hickups, ſanctified Barkings, illumina<g ref="char:EOLhyphen"/>ted Goggles, ſighs, ſobs, yeas, clocks, gaſps, and groans, not more un<g ref="char:EOLhyphen"/>intelligible, then nauſeous: However (to give him his due) he prays heartily for the King, but with more diſtinctions, and mental reſerva<g ref="char:EOLhyphen"/>tions, then an honeſt man would have taken the <hi>Covenant:</hi> From hence as out of a third Heaven) he falls by head and ſhoulders into his Preach<g ref="char:EOLhyphen"/>ment; which, what other is it, then a wild career, over Hill and Dale, till the Afternoon Chimes ſtop him: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Thump upon Thump, Yelp upon Yelp, Doctrine upon Doctrine, Rule upon Rule, Reaſon upon Reaſon, Text upon Text, Proof upon Proof, Dire<g ref="char:EOLhyphen"/>ction upon Direction, Motive upon Motive, Sign upon Sign, Token upon Token, Effect upon Effect, and Uſes more then innumerable. And here likewiſe, he cries up Obedience to Magiſtrates; but, with ſuch a <hi>Becketiſm</hi> of <hi>Salva Gloria Dei,</hi> at the end of it, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>that he might have bet<g ref="char:EOLhyphen"/>ter let it alone; As alſo, that they ought to be defended by their Sub<g ref="char:EOLhyphen"/>jects, in defence nevertheleſs, of the true Religion, of which himſelf muſt be Judge: And for his Grace at Meat, what can I better compare it to, than a <hi>Canterbury-rack;</hi> half Pace, half Gallop? So his, an odd hobbling ſhuffle, between a Grace and a Prayer, and a Prayer and a Grace: Laſtly, as to his Vertues, (for it cannot be denied, but he has ſomewhat of that which <hi>Tully</hi> calls, <hi>Adumbrata virtutum ſpecimina</hi>) I wiſh it might be ſaid of them, that they were other, than mask'd Hypo<g ref="char:EOLhyphen"/>riſie. The Poet hit it, <hi>Da justum ſanctum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> videri; Noctem Peccatis, Et fraudibus objice Nubem:</hi> And like an apt Scholar, he has gotteen his Leſſon by heart, and can now wrap the <hi>Philistin</hi>'s Sword in an holy Ephod. Whence elſe is it, That he ſhall crave a Bleſſing to the Deſign, be it never ſo ungodly; and give thanks for the ſucceſs, be it never ſo wicked: That he will not Swear, but can diſpence with the profitable ſin of Lying: That he will not be drunk <hi>(to be ſeen of men)</hi> but yet can take a Brotherly Rouze in a Corner: That he walks, as he had made a Covenant with his Eyes; and yet, <hi>Si uxor non Vult, aut non poſſit, Veniat ancilla,</hi> is wholſom Doctrine with him: That he is a zealous Obſerver of the <hi>Sabbath;</hi> and yet can make leſs conſcience of <hi>Schiſm,</hi> than a <hi>Surplice:</hi> That he cries, <hi>Vae mihi ſi non Evangelizavero;</hi> and yet allows no impoſition of Hands, but broken Pates. That he abhors Idols, and yet can commit <hi>Sacriledge;</hi> which, what other is it, than to burn the Idol with a Coal from the Altar? That he exhorts (his Beloved) to Conſtancy under Perſecution; and yet come what will, can lick him<g ref="char:EOLhyphen"/>ſelf whole, it will be hard to tell where he had been hurt: In ſhort, That he is a perfect <hi>Samaritan;</hi> For, let the <hi>Gentiles</hi> prevail, he is of the
+<pb n="4" facs="tcp:98718:3" rendition="simple:additions"/>Race of <hi>Iſhmael,</hi> and let the <hi>Jews</hi> get the upper-hand, he had <hi>Abraham</hi> to his Father. To conclude; He is a Glow-worm, that ſhines beſt in the night of Ignorance: One, whoſe Faith has eaten up his Charity: One, that has torn the ſeamleſs Coat into Raggs, and tack'd them together to cover his Nakedneſs: One, that having forſaken the Fountain, has he wen to himſelf but broken Ciſterns: One, that ſwallows all things unchew'd, and brings them up again, as raw, and undigeſted: One, whoſe Eyes are at the end of the Earth, and yet would be thought not to miſtake his way: In ſhort; One, that has an excuſe for every thing he ſhould not do; and a <hi>ſalvo</hi> againſt every thing he ſhould do; and all this by Scripture; <hi>Adeo nihil eſt, quod SS. Scripture extorqueri non poſſit, modo torqueatur.</hi> In a word, he is one of whom it may be ſaid, as <hi>He<g ref="char:EOLhyphen"/>raclius of the Bow,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: And, but that I find him ſo well cut out by <hi>Horace,</hi> I had not yet taken my hand from ſo everlaſting an Argument.</p>
+            <q>
+               <l>Mala quem ſcabies, aut Morbus Regius</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>rget, aut Fanaticus error, aut Iracunda Diana,</l>
+               <l>Veſanum tetigiſſe timent, fugiunt<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Qui ſapiunt, incauti<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſequuntur.</l>
+            </q>
+            <p>And as to the former, not without reaſon; for though his diſtemper lies not in too much Learning, yet to my unenlightned underſtanding, he ſpeaks not the words, either of Soberneſs, or Truth; but darkneth counſel, by words without knowledge.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>N. T.</hi> 1681.</p>
+            <pb facs="tcp:98718:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
